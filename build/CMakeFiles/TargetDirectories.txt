@@ -1,0 +1,5 @@
+C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_6/build/CMakeFiles/multifile.dir
+C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_6/build/CMakeFiles/package.dir
+C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_6/build/CMakeFiles/package_source.dir
+C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_6/build/CMakeFiles/edit_cache.dir
+C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_6/build/CMakeFiles/rebuild_cache.dir

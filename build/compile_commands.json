@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\main.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_6\\main.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_6\\main.cpp",
+  "output": "CMakeFiles\\multifile.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\matrix.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_6\\matrix.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_6\\matrix.cpp",
+  "output": "CMakeFiles\\multifile.dir\\matrix.cpp.obj"
+},
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\convolution.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_6\\convolution.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_6\\convolution.cpp",
+  "output": "CMakeFiles\\multifile.dir\\convolution.cpp.obj"
+},
+{
+  "directory": "C:/Users/artem/OneDrive/Desktop/Study/Programming/LAB_6/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\multifile.dir\\subdiscretization.cpp.obj -c C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_6\\subdiscretization.cpp",
+  "file": "C:\\Users\\artem\\OneDrive\\Desktop\\Study\\Programming\\LAB_6\\subdiscretization.cpp",
+  "output": "CMakeFiles\\multifile.dir\\subdiscretization.cpp.obj"
+}
+]

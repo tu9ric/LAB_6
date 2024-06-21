@@ -1,0 +1,9 @@
+# ninja log v5
+24	386	7385877527624740	CMakeFiles/LAB_6.dir/main.cpp.obj	eb177ba0a72e560b
+54	447	7385878262428458	CMakeFiles/multifile.dir/downsampling.cpp.obj	a058a6f7af23299c
+21	633	7386707743192318	CMakeFiles/multifile.dir/matrix.cpp.obj	63ac7087fd31df26
+20	275	7376772098807921	CMakeFiles/LAB_6.dir/Matrix.cpp.obj	601e6c7f55bb0d97
+24	621	7386707743017676	CMakeFiles/multifile.dir/convolution.cpp.obj	f58a26277cad8ccf
+6	548	7386780878861319	CMakeFiles/multifile.dir/main.cpp.obj	f12ddfc036c6708a
+549	912	7386780882417636	multifile.exe	aa37059ccc29e4e5
+28	612	7386707742982239	CMakeFiles/multifile.dir/subdiscretization.cpp.obj	209b112e1db3ca02
